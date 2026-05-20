@@ -50,10 +50,6 @@ SQL + Power BI analysis of global supply chain operations.
 Covers ABC XYZ inventory segmentation, shipment delay analysis, 
 and three stakeholder dashboards. **Stack: SQL · Power BI**
 
-### 📦 [Demand Forecasting for Logistics Networks](#)
-Forecasting model for shipment volume across routes — reduces idle fleet 
-capacity and cuts ops cost. **Stack:** Python · Scikit-learn · Pandas
-
 ---
 
 ## 📫 Connect
