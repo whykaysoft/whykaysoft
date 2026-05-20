@@ -29,7 +29,7 @@ My software engineering background means I build the tools, not just the reports
 
 ## Background
 
-**Founder & CEO — WhykaySoft Logistics**
+**Founder & CEO: WhykaySoft Logistics**
 - Built and operated a logistics company from the ground up
 - Managed fleet operations, last-mile delivery, and vendor coordination
 - Drove cost optimization and route planning decisions using operational data
