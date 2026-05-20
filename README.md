@@ -33,7 +33,7 @@ My software engineering background means I build the tools, not just the reports
 - Built and operated a logistics company from the ground up
 - Managed fleet operations, last-mile delivery, and vendor coordination
 - Drove cost optimization and route planning decisions using operational data
-- Increased sales by 20% every month
+- Increased sales by at least 20% every month
 - This experience is the lens through which I approach every analytics problem
 
 **Software Engineer (Frontend & Backend)**
@@ -44,10 +44,11 @@ My software engineering background means I build the tools, not just the reports
 
 ## Featured Projects
 
-### 🚚 [Logistics Operations Analytics Dashboard](#)
-KPI dashboard modeled on real last-mile delivery operations — tracking 
-on-time rate, cost per drop, route efficiency, and driver utilization.
-**Stack:** Python · Power BI
+###  [Supply Chain Optimization: Inventory, Shipping & Demand Analytics for Maersk](https://github.com/whykaysoft/Maersk_SCM_Analytics)
+
+SQL + Power BI analysis of global supply chain operations. 
+Covers ABC XYZ inventory segmentation, shipment delay analysis, 
+and three stakeholder dashboards. **Stack: SQL · Power BI**
 
 ### 📦 [Demand Forecasting for Logistics Networks](#)
 Forecasting model for shipment volume across routes — reduces idle fleet 
