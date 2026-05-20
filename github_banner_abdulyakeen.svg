@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1584" height="396" viewBox="0 0 1584 396">
+  <title>GitHub Banner - Abdulyakeen Ogunleye</title>
+  <desc>Supply Chain Data Analyst GitHub banner, navy blue palette</desc>
+
+  <rect width="1584" height="396" fill="#050D1A"/>
+  <rect x="0" y="0" width="1584" height="6" fill="#2260A8"/>
+  <rect x="0" y="6" width="1584" height="2" fill="#132E52"/>
+
+  <!-- Logo circle -->
+  <circle cx="110" cy="100" r="50" fill="#0C1E35" stroke="#1A3F6F" stroke-width="2"/>
+  <text x="110" y="93" text-anchor="middle" font-family="Arial,sans-serif" font-size="28" fill="#3A7FCC" font-weight="700">⬡</text>
+  <text x="110" y="116" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#2260A8" font-weight="700">SCM</text>
+
+  <line x1="178" y1="56" x2="178" y2="144" stroke="#132E52" stroke-width="1"/>
+
+  <!-- Name and title -->
+  <text x="204" y="100" font-family="Arial,sans-serif" font-size="52" font-weight="700" fill="#D0E6FA" letter-spacing="-1">Abdulyakeen Ogunleye</text>
+  <text x="204" y="136" font-family="Arial,sans-serif" font-size="22" fill="#6FA8E0" letter-spacing="0.5">Supply Chain Data Analyst  ·  Ex-Founder, Logistics Ops</text>
+
+  <rect x="204" y="152" width="700" height="2" fill="#132E52"/>
+  <text x="204" y="184" font-family="Arial,sans-serif" font-size="20" fill="#3A7FCC" font-style="italic">" I've run the supply chain. Now I optimize it with data. "</text>
+
+  <line x1="60" y1="216" x2="1520" y2="216" stroke="#0C1E35" stroke-width="2"/>
+
+  <!-- Tech stack label -->
+  <text x="60" y="252" font-family="Arial,sans-serif" font-size="15" fill="#2260A8" letter-spacing="3" font-weight="700">TECH STACK</text>
+
+  <!-- Python -->
+  <rect x="60" y="264" width="140" height="68" rx="8" fill="#0C1E35" stroke="#1A3F6F" stroke-width="1"/>
+  <text x="130" y="290" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" fill="#2260A8">{ py }</text>
+  <text x="130" y="316" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" fill="#A8CCF0" font-weight="700">Python</text>
+
+  <!-- SQL -->
+  <rect x="212" y="264" width="140" height="68" rx="8" fill="#0C1E35" stroke="#1A3F6F" stroke-width="1"/>
+  <text x="282" y="290" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" fill="#2260A8">⊞ DB</text>
+  <text x="282" y="316" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" fill="#A8CCF0" font-weight="700">SQL</text>
+
+  <!-- Power BI -->
+  <rect x="364" y="264" width="160" height="68" rx="8" fill="#0C1E35" stroke="#1A3F6F" stroke-width="1"/>
+  <text x="444" y="290" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" fill="#2260A8">◈ Viz</text>
+  <text x="444" y="316" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" fill="#A8CCF0" font-weight="700">Power BI</text>
+
+  <!-- Domain label -->
+  <text x="556" y="252" font-family="Arial,sans-serif" font-size="15" fill="#2260A8" letter-spacing="3" font-weight="700">DOMAIN</text>
+
+  <!-- Supply Chain -->
+  <rect x="556" y="264" width="180" height="68" rx="8" fill="#0C1E35" stroke="#1A3F6F" stroke-width="1"/>
+  <text x="646" y="289" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#2260A8">⬡ Operations</text>
+  <text x="646" y="314" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" fill="#A8CCF0" font-weight="700">Supply Chain</text>
+
+  <!-- Inventory -->
+  <rect x="748" y="264" width="180" height="68" rx="8" fill="#0C1E35" stroke="#1A3F6F" stroke-width="1"/>
+  <text x="838" y="289" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#2260A8">▣ Stock</text>
+  <text x="838" y="314" text-anchor="middle" font-family="Arial,sans-serif" font-size="19" fill="#A8CCF0" font-weight="700">Inventory Mgmt</text>
+
+  <!-- Logistics -->
+  <rect x="940" y="264" width="168" height="68" rx="8" fill="#0C1E35" stroke="#1A3F6F" stroke-width="1"/>
+  <text x="1024" y="289" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#2260A8">➤ Move</text>
+  <text x="1024" y="314" text-anchor="middle" font-family="Arial,sans-serif" font-size="19" fill="#A8CCF0" font-weight="700">Logistics Ops</text>
+
+  <!-- Ex-Founder highlighted -->
+  <rect x="1120" y="264" width="160" height="68" rx="8" fill="#132E52" stroke="#2260A8" stroke-width="1.5"/>
+  <text x="1200" y="289" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#3A7FCC">◉ Built</text>
+  <text x="1200" y="314" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" fill="#D0E6FA" font-weight="700">Ex-Founder</text>
+
+  <!-- Projects panel -->
+  <rect x="1310" y="42" width="234" height="202" rx="12" fill="#0C1E35" stroke="#132E52" stroke-width="1"/>
+  <rect x="1310" y="42" width="234" height="8" rx="6" fill="#2260A8"/>
+  <text x="1427" y="80" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#2260A8" letter-spacing="2" font-weight="700">KEY PROJECTS</text>
+  <line x1="1326" y1="90" x2="1528" y2="90" stroke="#132E52" stroke-width="1"/>
+  <text x="1326" y="116" font-family="Arial,sans-serif" font-size="16" fill="#6FA8E0">⬡  Maersk SCM Optimization</text>
+  <text x="1326" y="140" font-family="Arial,sans-serif" font-size="16" fill="#6FA8E0">⬡  Bike Share BI Dashboard</text>
+  <text x="1326" y="164" font-family="Arial,sans-serif" font-size="16" fill="#6FA8E0">⬡  SQL Data Pipelines</text>
+  <text x="1326" y="188" font-family="Arial,sans-serif" font-size="16" fill="#6FA8E0">⬡  ABC-XYZ Segmentation</text>
+  <text x="1326" y="212" font-family="Arial,sans-serif" font-size="16" fill="#3A7FCC">→  View all repos</text>
+
+  <!-- Footer -->
+  <line x1="60" y1="352" x2="1520" y2="352" stroke="#0C1E35" stroke-width="2"/>
+  <text x="60" y="378" font-family="Arial,sans-serif" font-size="17" fill="#1A3F6F" letter-spacing="0.5">Lagos, Nigeria  ·  Open to Remote &amp; Hybrid Roles  ·  Data-Driven Supply Chain</text>
+  <rect x="1350" y="356" width="204" height="36" rx="18" fill="#132E52" stroke="#2260A8" stroke-width="1"/>
+  <text x="1452" y="380" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#6FA8E0" letter-spacing="1">github.com/username</text>
+</svg>
