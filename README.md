@@ -50,8 +50,14 @@ SQL + Power BI analysis of global supply chain operations.
 Covers ABC XYZ inventory segmentation, shipment delay analysis, 
 and three stakeholder dashboards. **Stack: SQL · Power BI**
 
+###  [Swift Bike Share Analytics](https://github.com/whykaysoft/Swift_BikeShare_Analytics)
+
+SQL + Power BI analysis of Swift Bike Share operations. 
+
+**Stack: SQL · Power BI**
+
 ---
 
-## 📫 Connect
+## Connect
 - LinkedIn: https://www.linkedin.com/in/abdulyakeen-ogunleye/  
 - Email: abdulyakeen2018@gmail.com
