@@ -53,5 +53,5 @@ and three stakeholder dashboards. **Stack: SQL · Power BI**
 ---
 
 ## 📫 Connect
-- LinkedIn: [https://www.linkedin.com/in/abdulyakeen-ogunleye/]  
+- LinkedIn: https://www.linkedin.com/in/abdulyakeen-ogunleye/  
 - Email: abdulyakeen2018@gmail.com
